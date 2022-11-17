@@ -10,6 +10,6 @@ public class bee1007 {
         C = s.nextInt();
         D = s.nextInt();
         int DIFERENCA = (A*B-C*D);
-        System.out.println("DIFEREtNCA = "+ DIFERENCA);
+        System.out.println("DIFERENCA = "+ DIFERENCA);
     }
 }
