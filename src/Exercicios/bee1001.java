@@ -7,8 +7,7 @@ public class bee1001 {
     public static void main(String[] args){
         int A = s.nextInt();
         int B = s.nextInt();
-        int D = 0;
-        int X = A + B + D;
+        int X = A + B;
         System.out.println("X = " + X);
     }
 }
