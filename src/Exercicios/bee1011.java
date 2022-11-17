@@ -7,6 +7,6 @@ public class bee1011 {
         double pi = 3.14159;
         int R = s.nextInt();
         double volume = (4.0/3)*pi*Math.pow(R,3);
-        System.out.printf("VOLUME = %.3f\n", volume);
+        System.out.printf("VOLUMeE = %.3f\n", volume);
     }
 }
