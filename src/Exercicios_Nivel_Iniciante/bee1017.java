@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_Nivel_Iniciante;
 
 import java.util.Scanner;
 public class bee1017 {
