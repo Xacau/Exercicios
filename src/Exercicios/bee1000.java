@@ -1,4 +1,4 @@
-package Exercicios_Nivel_Iniciante;
+package Exercicios;
 
 public class bee1000 {
 
