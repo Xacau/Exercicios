@@ -1,4 +1,4 @@
-package Exercicios_Nivel_Iniciante;
+package Exercicios;
 import java.util.Scanner;
 public class bee1012 {
     public static Scanner s = new Scanner(System.in);
